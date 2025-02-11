@@ -1,4 +1,4 @@
-# README TEMPLATE
+# Art Price Prediction Model
 
 This is the final project of a introductory machine learning class. Basic transfer learning model using pre-trained network Resnet101 (image classifier) and a small scale Multi-Layer Perceptron to predict the price of an artwork from an image of the artwork alone. The model fails to predict the price of artworks in any meaningful way. For more details on the original version view the full project report as pdf, though the model is under development (as of February 2025) to hopefully discern a more robust experimental understanding of the limitations of ML models. 
 
